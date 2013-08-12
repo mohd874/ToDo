@@ -1,0 +1,24 @@
+ToDo:
+Cocos2d-X
+Code Academy
+HTML5 Game Development with ImpactJS
+Instant Pygame
+Nature of Code
+Scala with Processing using Eclipse (SPDE)
+Java Networking
+SBT > Learn
+Game Coding Complete, Fourth Edition
+Unity3D videos
+
+Coursera:
+	- Creative Programming
+	- Data Science
+	- Program Design
+
+MaKe:
+GUI git
+
+Tetris
+
+Music Composer (Processing OR PyGame)
+
